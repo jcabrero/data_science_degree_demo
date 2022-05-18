@@ -1,4 +1,3 @@
-# Demos Seminario Master Ciberseguridad
+# Demonstration Scripts used for the Data Science Degree at UC3M on 12/05/2022
 
-Este repositorio incluye demos sobre los contenidos cubiertos en la charla para el master de ciberseguridad (2021-2022).
-
+This repository includes all the scripts to replicate the experiments showed in the talk for the Data Science Degree at UC3M.
